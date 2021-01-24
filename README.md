@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a [React Course][reactwebsite]!
 - 🌱 I’m currently learning React JS 💻
 - 👯 I’m looking to connect with other developers
-- 🥅 2020 Goals: Create 10 full stack projects
+- 🥅 2021 Goals: Create 5 full stack projects
 - ⚡ Fun fact: I love watch anime ,play games , travelling and hacking life.
 
 ### Spotify Playing 🎧
