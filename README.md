@@ -6,10 +6,10 @@
 
 ## I'm a Full Stack Developer and a SQA Engineer !
 
-- 🔭 I’m currently working on a [React Course][reactwebsite]!
-- 🌱 I’m currently learning React JS 💻
+- 🔭 I’m currently working on a [Kubernetes Course][kuberneteswebsite]!
+- 🌱 I’m currently learning Kubernetes 💻
 - 👯 I’m looking to connect with other developers
-- 🥅 2021 Goals: Create 5 full stack projects
+- 🥅 2021 Goals: Take part in 10 Hackathons , learn cloud computing and backend development
 - ⚡ Fun fact: I love watch anime ,play games , travelling and hacking life.
 
 ### Spotify Playing 🎧
@@ -51,7 +51,7 @@
 
 <img align="left" alt="Rohrock's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rohrock&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[reactwebsite]: https://frontendmasters.com/learn/react/
+[kuberneteswebsite]: https://www.youtube.com/watch?v=X48VuDVv0do&t=597s&ab_channel=TechWorldwithNana
 [twitter]: https://twitter.com/rohithamster
 [instagram]: https://www.instagram.com/r_0_h_i_t/
 [linkedin]: https://www.linkedin.com/in/rohit-agharkar-15793a127/
