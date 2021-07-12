@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on a [Kubernetes Course][kuberneteswebsite]!
 - 🌱 I’m currently learning Kubernetes 💻
 - 👯 I’m looking to connect with other developers
-- 🥅 2021 Goals: Take part in 10 Hackathons , learn cloud computing and backend development
 - ⚡ Fun fact: I love watch anime ,play games , travelling and hacking life.
 
 ### Spotify Playing 🎧
