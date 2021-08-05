@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rohithamster?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-## I'm a Full Stack Developer and a SQA Engineer !
+## I'm a Full Stack enthusiast and a Software Engineer @ Veritas !
 
 - 🔭 I’m currently working on a [Kubernetes Course][kuberneteswebsite]!
 - 🌱 I’m currently learning Kubernetes 💻
@@ -48,7 +48,7 @@
 
 ---
 
-<img align="left" alt="Rohrock's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rohrock&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="Rohrock's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohrock&show_icons=true" />
 
 [kuberneteswebsite]: https://www.youtube.com/watch?v=X48VuDVv0do&t=597s&ab_channel=TechWorldwithNana
 [twitter]: https://twitter.com/rohithamster
