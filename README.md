@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rohithamster?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-## I'm a Full Stack enthusiast and a Software Engineer @ Paypal !
+## I'm a Full Stack enthusiast and a Software Engineer @ Amazon !
 
 - 🔭 I’m currently working on a [Kubernetes Course][kuberneteswebsite]!
 - 🌱 I’m currently learning Kubernetes 💻
